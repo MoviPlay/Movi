@@ -8,7 +8,7 @@ VavooSAT es oficial
 
 Que disfruteis de los canales!
 
-Link del satelite para ver todos los canales: https://raw.githubusercontent.com/NicaSAT/NicaSAT/main/NicaSAT.m3u
+Link del satelite para ver todos los canales: https://raw.githubusercontent.com/NicaSAT/VavooSAT/main/NicaSAT.m3u
 
 -----------------------------------------------------------------------------
 
