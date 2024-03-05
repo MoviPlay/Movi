@@ -15,7 +15,7 @@ https://vavoo.to/play/3388872988/index.m3u8
 https://vavoo.to/play/3388872988/index.m3u8
 #EXTINF:-8 tvg-id="https://www.apuntmedia.es/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/1200px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png" group-title="España",A Punt
 https://vavoo.to/play/3870664321/index.m3u8
-#EXTINF:-9 tvg-id="https://www.aetvlatam.com/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" group-title="España",A&E
+#EXTINF:-9 tvg-id="https://www.aetvlatam.com/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" group-title="Latinoamerica",A&E
 https://vavoo.to/play/3862194618/index.m3u8
 #EXTINF:-10 tvg-id="https://www.atresplayer.com/directos/atreseries/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="España",Atreseries
 https://vavoo.to/play/401201145/index.m3u8
@@ -251,7 +251,7 @@ https://vavoo.to/play/213524220/index.m3u8
 https://vavoo.to/play/3805695761/index.m3u8
 #EXTINF:-116 tvg-id="https://www.espn.com.ar/?src=com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Argentina",ESPN 2
 https://vavoo.to/play/1730534680/index.m3u8
-#EXTINF:-117 tvg-id="https://www.espn.com/?src=com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="Latinoamerica",ESPN Deportes
+#EXTINF:-117 tvg-id="https://www.espn.com/?src=com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="Argentina",ESPN Deportes
 https://vavoo.to/play/3221429437/index.m3u8
 #EXTINF:-118 tvg-id="https://www.ccma.cat/esport3/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/800px-Esport3.svg.png" group-title="España",Esport 3
 https://vavoo.to/play/2196141413/index.m3u8
@@ -301,13 +301,11 @@ https://vavoo.to/play/1886323192/index.m3u8
 https://vavoo.to/play/4219435941/index.m3u8
 #EXTINF:-141 tvg-id="https://www.goltelevision.com/" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="España",Gol
 https://vavoo.to/play/1772987572/index.m3u8
-#EXTINF:-142 tvg-id="https://ubeat.tv/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ubeat.png" group-title="España",Ubeat
+#EXTINF:-14 tvg-id="https://ubeat.tv/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ubeat.png" group-title="España",Ubeat
 https://vavoo.to/play/1917318178/index.m3u8
-#EXTINF:-143 tvg-id="https://www.gol.tv/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png" group-title="Latinoamerica",Gol TV
-https://vavoo.to/play/632828358/index.m3u8
-#EXTINF:-144 tvg-id="https://www.goltelevision.com/" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="España",Gol TV HD
+#EXTINF:-14 tvg-id="https://www.goltelevision.com/" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="España",Gol TV HD
 https://vavoo.to/play/1222866273/index.m3u8
 #EXTINF:-145 tvg-id="https://www.hamaika.eus/" tvg-logo="https://www.hamaika.eus/images/hamaika_logoa_2.png" group-title="España, Canales Autonomicos",Hamaika Telebista
 https://vavoo.to/play/3556494849/index.m3u8
-#EXTINF:-146 tvg-id="https://www.hbomax.com/es/es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="España",HBO
+#EXTINF:-146 tvg-id="https://www.hbomax.com/es/es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="Latinoamerica",HBO
 https://vavoo.to/play/2860087684/index.m3u8
