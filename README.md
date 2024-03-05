@@ -2,18 +2,14 @@
 
 El satelite ha llegado.
 
-NicaSAT, el satelite con links oficiales de todos los canales de Vavoo
-
 VavooSAT es oficial
 
 Que disfruteis de los canales!
 
-Link del satelite para ver todos los canales: https://raw.githubusercontent.com/NicaSAT/VavooSAT/main/NicaSAT.m3u
+Link del satelite para ver todos los canales: https://raw.githubusercontent.com/VavooSAT/VavooSAT/main/NicaSAT.m3u
 
 -----------------------------------------------------------------------------
 
-⚠Todos los canales son sacados de vavoo
+⚠Todos los canales son de Vavoo
 
 ⚠Actualizamos el satelite cuando haya canales nuevos.
-
-⚠Links oficiales sacados por Vavoo y asociado con el satelite NicaSAT.
