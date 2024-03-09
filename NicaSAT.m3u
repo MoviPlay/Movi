@@ -31,7 +31,7 @@ https://vavoo.to/play/2254165055/index.m3u8
 https://vavoo.to/play/189227907/index.m3u8
 #EXTINF:-16 tvg-id="https://amcselekt.es/amc-break" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AMC_Break.svg/2560px-AMC_Break.svg.png" group-title="Brazil",AMC BREAK Brazil
 https://vavoo.to/play/2600322857/index.m3u8
-#EXTINF:-17 tvg-id="https://amcplus.es/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="España",AMC HD
+#EXTINF:-17 tvg-id="https://amcselekt.es/amc-break" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AMC_Break.svg/2560px-AMC_Break.svg.png" group-title="Internacional",AMC BREAK Internacional
 https://vavoo.to/play/2600322857/index.m3u8
 #EXTINF:-18 tvg-id="https://www.andorradifusio.ad/endirecte/atv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" group-title="Andorra",Andorra TV
 https://vavoo.to/play/3431411868/index.m3u8
@@ -301,7 +301,7 @@ https://vavoo.to/play/1886323192/index.m3u8
 https://vavoo.to/play/4219435941/index.m3u8
 #EXTINF:-141 tvg-id="https://www.goltelevision.com/" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="España",Gol
 https://vavoo.to/play/1772987572/index.m3u8
-#EXTINF:-14 tvg-id="https://ubeat.tv/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ubeat.png" group-title="España",Ubeat
+#EXTINF:-14 tvg-id="https://www.goltelevision.com/" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="España",Gol TV
 https://vavoo.to/play/1917318178/index.m3u8
 #EXTINF:-14 tvg-id="https://www.goltelevision.com/" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="España",Gol TV HD
 https://vavoo.to/play/1222866273/index.m3u8
@@ -309,3 +309,13 @@ https://vavoo.to/play/1222866273/index.m3u8
 https://vavoo.to/play/3556494849/index.m3u8
 #EXTINF:-146 tvg-id="https://www.hbomax.com/es/es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="Latinoamerica",HBO
 https://vavoo.to/play/2860087684/index.m3u8
+#EXTINF:-147 tvg-id="https://amcselekt.es/canal-historia" tvg-logo="https://almatelecom.es/wp-content/uploads/2023/02/historia.png" group-title="España",Historia
+https://vavoo.to/play/2058121737/index.m3u8
+#EXTINF:-148 tvg-id="https://amcselekt.es/canal-historia" tvg-logo="https://almatelecom.es/wp-content/uploads/2023/02/historia.png" group-title="España",Historia
+https://vavoo.to/play/3174396822/index.m3u8
+#EXTINF:-149 tvg-id="https://hola.tv/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="Latinoamerica",Hola TV
+https://vavoo.to/play/1342182625/index.m3u8
+#EXTINF:-150 tvg-id="https://amcselekt.es/canal-hollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/HWD_logo.svg" group-title="España",Hollywood
+https://vavoo.to/play/3543087169/index.m3u8
+#EXTINF:-151 tvg-id="https://amcselekt.es/canal-hollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/HWD_logo.svg" group-title="España",Hollywood HD
+https://vavoo.to/play/711919952/index.m3u8
