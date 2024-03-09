@@ -17,3 +17,5 @@ Sinced From 2024.
 ⚠Actualizamos el satelite cuando haya canales nuevos.
 
 ⚠Satelite Legal
+
+⚠Satelite en Orbita por todo el mundo
