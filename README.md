@@ -19,3 +19,5 @@ Sinced From 2024.
 ⚠Satelite Legal
 
 ⚠Satelite en Orbita por todo el mundo
+
+⚠Todos los links son asociados con todos los satelites del mundo con señal real. (Autorizados todos los satelites con este)
