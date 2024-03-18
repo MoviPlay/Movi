@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="VavooSAT TV (19.5ºE)/Portugal",1. $ CMTV
+#EXTINF:-1 group-title="VavooSAT TV (19.5ºE)/ Portugal",1. $ CMTV
 https://vavoo.to/play/2651477543/index.m3u8
-#EXTINF:-1 group-title="VavooSAT TV (19.5ºE)/USA (Estados Unidos)",3. $ Bein Sports 1
+#EXTINF:-1 group-title="VavooSAT TV (19.5ºE)/ USA (Estados Unidos)",3. $ Bein Sports 1
 https://vavoo.to/play/3118029335/index.m3u8
-#EXTINF:-1 group-title="VavooSAT TV (19.5ºE)/Germany (Alemania)",7. $ SKY BundesLiga 2
+#EXTINF:-1 group-title="VavooSAT TV (19.5ºE)/ Germany (Alemania)",7. $ SKY BundesLiga 2
 https://vavoo.to/play/750288844/index.m3u8
-#EXTINF:-1 group-title="VavooSAT TV (19.5ºE)/Albania",10. $ BIG BROTHER 2 KS
+#EXTINF:-1 group-title="VavooSAT TV (19.5ºE)/ Albania",10. $ BIG BROTHER 2 KS
 https://vavoo.to/play/390046189/index.m3u8
 #EXTINF:-1 group-title="VavooSAT TV (19.5ºE)/Balkans (Peninsula Iberica)",15. $ DOMA (Uzivo)
 https://vavoo.to/play/1187743428/index.m3u8
-#EXTINF:-1 group-title="VavooSAT TV (19.5ºE)/Spain (Espana)",17. $ Eurosport 2 (España)
+#EXTINF:-1 group-title="VavooSAT TV (19.5ºE)/ Spain (Espana)",17. $ Eurosport 2
 https://vavoo.to/play/3826316524/index.m3u8
-#EXTINF:-1 group-title="VavooSAT TV (19.5ºE)/Albania",20. $ BIG BROTHER 1 KS
+#EXTINF:-1 group-title="VavooSAT TV (19.5ºE)/ Albania",20. $ BIG BROTHER 1 KS
 https://vavoo.to/play/2578490894/index.m3u8
 #EXTINF:-1 group-title="VavooSAT TV (19.5ºE)",29. Pruebas 1
 https://github.com/VavooSAT/VavooSATSettings/raw/main/pruebas.m3u8
@@ -25,11 +25,11 @@ https://vavoo.to/play/2171523433/index.m3u8
 https://vavoo.to/play/980424600/index.m3u8
 #EXTINF:-1 group-title="VavooSAT TV (19.5ºE)/ France (Francia)",55. $ BEIN Sports 1 FHD
 https://vavoo.to/play/3190911914/index.m3u8
-#EXTINF:-1 group-title="VavooSAT TV (19.5ºE)/ Balkans (Peninsula Iberica)",57. $ Sport Klub 1 FHD
+#EXTINF:-1 group-title="VavooSAT TV (19.5ºE)/ Balkans (Peninsula Iberica)",57. $ Sport Klub 1 FHD (SK 1)
 https://vavoo.to/play/1231808909/index.m3u8
 #EXTINF:-1 group-title="VavooSAT TV (19.5ºE)/ Turkey (Turquia)",60. $ BEIN Sports 1+
 https://vavoo.to/play/2873939440/index.m3u8
-#EXTINF:-1 group-title="VavooSAT TV (19.5ºE)/ Turkey (Turquia)",61. $ BEIN Sports MAX 1
+#EXTINF:-1 group-title="VavooSAT TV (19.5ºE)/ Turkey (Turquia)",61. $ BEIN Sports MAX 1 (Radio)
 https://vavoo.to/play/736874981/index.m3u8
-#EXTINF:-1 group-title="VavooSAT TV (19.5ºE)/ Italy (Italia)",68. $ EuroSport 2
+#EXTINF:-1 group-title="VavooSAT TV (19.5ºE)/ Italy (Italia)",68. $ EuroSport 2 (discovery+)
 https://vavoo.to/play/4078338435/index.m3u8
