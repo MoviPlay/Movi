@@ -6,6 +6,10 @@ Que disfruteis de los canales!
 
 Link del satelite para ver todos los canales: https://raw.githubusercontent.com/VavooSAT/VavooSAT/main/NicaSAT.m3u y https://raw.githubusercontent.com/VavooSAT/VavooSAT/main/AnciSAT.m3u
 
+VavooSAT: Satelite con sobrecargamiento
+
+AnciSAT (VavooSAT TV): Satelite principal
+
 ⚠Señal real por cobertura
 
 ⚠Cuando tiene un parentesis de un canal (--) significa que el dial esta cambiado por unas horas a otro canal
