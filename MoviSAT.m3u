@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/TVE.png",1. LA 1
+https://vavoo.to/play/430938861/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/LA2.png",2. LA 2
+https://vavoo.to/play/1206306221/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/A3.png",3. Antena 3
+https://vavoo.to/play/1723169343/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/C4.png",4. Cuatro
+https://vavoo.to/play/758558292/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/T5.png",5. Telecinco
+https://vavoo.to/play/487257571/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/SEXTA.png",6. La Sexta
+https://vavoo.to/play/4145522749/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MPLUS.png",7. Movistar Plus+
+https://vavoo.to/play/2344934304/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MPLUS.png",8. M+ Vamos
+https://vavoo.to/play/2185471044/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/7TVMUR.png",9A. 7 TV Región Murcia
+https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/APUNT.png",9B. À Punt
+https://vavoo.to/play/3870664321/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/ARAGTV.png",9C. Aragón TV
+https://vavoo.to/play/2620092685/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/CANAR.png",9D. TV Canaria
+https://vavoo.to/play/2007448435/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/CANSUR.png",9E. Canal Sur
+https://vavoo.to/play/2689298846/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/CASMAN.png",9F. Castilla la Mancha TV
+https://vavoo.to/play/3794545881/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/CYLTV.png",9G. La 7
+https://la7live.flumotion.cloud/la7live/smil:channel1.smil/fmt_token/r56ce-ZjS28VB85bAeORpvYMImUb3u1z6c0DL_NwJeQ/eyJleHBpcmUiOiIxNzEwOTcwOTUxIiwidXJsX2FsbG93IjpbIi9vbmRlbWFuZC85ODFjNDhlNi1jNjNlLTRkMDAtYjFlMS03OTc4MjBhNjFjNTkiLCIvbGE3bGl2ZSJdLCJyZWZfYWxsb3ciOlsiY2RuYXBpLmNvZGV2OC5uZXQiLCJjbXMuY29kZXY4Lm5ldCJdfQ/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/ETB1.png",9H. ETB 1
+https://vavoo.to/play/3477933300/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/EXTRE.png",9I. Canal Extremadura
+https://vavoo.to/play/3978609834/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/IB3.png",9J. IB3
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710906768/ei/MAn6ZdO-KYmkvdIP9NKk0As/ip/85.48.187.253/id/-B98noo7uK0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51123453/txs/51123452%2C51123453%2C51123454%2C51123455%2C51123456%2C51123457/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5NyoeIvYzLKwu4j5i_zZyJVVmEdvuhh5lUocqYHddY/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/beids/24350376/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMasxJIejnEYcqp71vPEt8MOP_wtgMh_w6EOtSYgTA8NAiEAwP5RBNlhMc5DdWAg_Jzfu_K3ORxoNf5O1fFN9J2pYt4%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/NAVA.png",9K. Navarra TV
+https://www.dailymotion.com/cdn/live/video/x8dhap9.m3u8?sec=gppQxB0lSap5C5Qe4LUfNF496UYEowOo9jnYhfxJzfiTD2Y6UL09f-oUZhmSGD6h&dmTs=652659&dmV1st=ae4dbc29-4781-4913-bc7c-845729dfa0ad
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/TELMAD.png",9M. Telemadrid
+https://telemadrid-23-secure2.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/TPA.png",9N. TPA
+https://cdnlive.codev8.net/rtpalive/smil:directo.smil/fmt_token/iSx49dGGUODOcE1Ejs0Isio0jla2bJr3qxj3KZIoAaQ/eyJleHBpcmUiOjE3MTA4OTEwMDEsInVybF9hbGxvdyI6WyIvcnRwYWxpdmUiXSwicmVmX2FsbG93IjpbIioucnRwYS5lcyIsInJ0cGEuZXMiXX0/chunklist_b1700000_DVR.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/TV3CAT.png",9O. TV3
+https://vavoo.to/play/754230949/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/TVGAL.png",9P. TVG - TV Galicia
+https://vavoo.to/play/2934299310/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/ANDATV.png",10A. Andalucia TV
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/ETB2.png",10B. ETB 2
+https://vavoo.to/play/2297263652/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/ETB3.png",10B. ETB 3
+https://vavoo.to/play/1562153991/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MEDITE.png",10C. La Ocho TV
+https://streaming004.gestec-video.com/hls/8TV.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/OTRA.png",10D. La Otra
+https://vavoo.to/play/1299409893/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/TVG2.png",10E. TVG 2
+https://vavoo.to/play/592120012/index.m3u8
