@@ -1,59 +1,221 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/TVE.png",1. LA 1
-https://vavoo.to/play/430938861/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/LA2.png",2. LA 2
-https://vavoo.to/play/1206306221/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/A3.png",3. Antena 3
-https://vavoo.to/play/1723169343/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/C4.png",4. Cuatro
-https://vavoo.to/play/758558292/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/T5.png",5. Telecinco
-https://vavoo.to/play/487257571/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/SEXTA.png",6. La Sexta
-https://vavoo.to/play/4145522749/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MPLUS.png",7. Movistar Plus+
-https://vavoo.to/play/2344934304/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MPLUS.png",8. M+ Vamos
-https://vavoo.to/play/2185471044/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/7TVMUR.png",9A. 7 TV Región Murcia
-https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/APUNT.png",9B. À Punt
-https://vavoo.to/play/3870664321/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/ARAGTV.png",9C. Aragón TV
-https://vavoo.to/play/2620092685/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/CANAR.png",9D. TV Canaria
-https://vavoo.to/play/2007448435/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/CANSUR.png",9E. Canal Sur
-https://vavoo.to/play/2689298846/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/CASMAN.png",9F. Castilla la Mancha TV
-https://vavoo.to/play/3794545881/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/CYLTV.png",9G. La 7
-https://la7live.flumotion.cloud/la7live/smil:channel1.smil/fmt_token/r56ce-ZjS28VB85bAeORpvYMImUb3u1z6c0DL_NwJeQ/eyJleHBpcmUiOiIxNzEwOTcwOTUxIiwidXJsX2FsbG93IjpbIi9vbmRlbWFuZC85ODFjNDhlNi1jNjNlLTRkMDAtYjFlMS03OTc4MjBhNjFjNTkiLCIvbGE3bGl2ZSJdLCJyZWZfYWxsb3ciOlsiY2RuYXBpLmNvZGV2OC5uZXQiLCJjbXMuY29kZXY4Lm5ldCJdfQ/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/ETB1.png",9H. ETB 1
-https://vavoo.to/play/3477933300/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/EXTRE.png",9I. Canal Extremadura
-https://vavoo.to/play/3978609834/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/IB3.png",9J. IB3
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710906768/ei/MAn6ZdO-KYmkvdIP9NKk0As/ip/85.48.187.253/id/-B98noo7uK0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51123453/txs/51123452%2C51123453%2C51123454%2C51123455%2C51123456%2C51123457/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5NyoeIvYzLKwu4j5i_zZyJVVmEdvuhh5lUocqYHddY/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/beids/24350376/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMasxJIejnEYcqp71vPEt8MOP_wtgMh_w6EOtSYgTA8NAiEAwP5RBNlhMc5DdWAg_Jzfu_K3ORxoNf5O1fFN9J2pYt4%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/NAVA.png",9K. Navarra TV
-https://www.dailymotion.com/cdn/live/video/x8dhap9.m3u8?sec=gppQxB0lSap5C5Qe4LUfNF496UYEowOo9jnYhfxJzfiTD2Y6UL09f-oUZhmSGD6h&dmTs=652659&dmV1st=ae4dbc29-4781-4913-bc7c-845729dfa0ad
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/TELMAD.png",9M. Telemadrid
-https://telemadrid-23-secure2.akamaized.net/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/TPA.png",9N. TPA
-https://cdnlive.codev8.net/rtpalive/smil:directo.smil/fmt_token/iSx49dGGUODOcE1Ejs0Isio0jla2bJr3qxj3KZIoAaQ/eyJleHBpcmUiOjE3MTA4OTEwMDEsInVybF9hbGxvdyI6WyIvcnRwYWxpdmUiXSwicmVmX2FsbG93IjpbIioucnRwYS5lcyIsInJ0cGEuZXMiXX0/chunklist_b1700000_DVR.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/TV3CAT.png",9O. TV3
-https://vavoo.to/play/754230949/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/TVGAL.png",9P. TVG - TV Galicia
-https://vavoo.to/play/2934299310/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/ANDATV.png",10A. Andalucia TV
-https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/ETB2.png",10B. ETB 2
-https://vavoo.to/play/2297263652/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/ETB3.png",10B. ETB 3
-https://vavoo.to/play/1562153991/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MEDITE.png",10C. La Ocho TV
-https://streaming004.gestec-video.com/hls/8TV.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/OTRA.png",10D. La Otra
-https://vavoo.to/play/1299409893/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/TVG2.png",10E. TVG 2
-https://vavoo.to/play/592120012/index.m3u8
+#EXTINF:-1 ,1. COMEDY CENTRAL
+http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8
+#EXTINF:-1 ,1. COMEDY CENTRAL ESPAÑA
+https://vavoo.to/play/2325102883/index.m3u8
+#EXTINF:-1 ,1. COMEDY CENTRAL ITALIA
+https://vavoo.to/play/723356054/index.m3u8
+#EXTINF:-1 ,1. COMEDY CENTRAL ALEMANIA
+https://vavoo.to/play/612768809/index.m3u8
+#EXTINF:-1 ,1. COMEDY CENTRAL POLONIA
+https://vavoo.to/play/2106508163/index.m3u8
+#EXTINF:-1 ,1. COMEDY CENTRAL REINO UNIDO
+https://vavoo.to/play/1733880891/index.m3u8
+#EXTINF:-1 ,1. COMEDY CENTRAL ROMANIA
+https://vavoo.to/play/2882254652/index.m3u8
+#EXTINF:-1 ,1. COMEDY CENTRAL PAISES BAJOS
+https://vavoo.to/play/4160444055/index.m3u8
+#EXTINF:-1 ,1. COMEDY CENTRAL FRANCIA
+https://vavoo.to/play/3325586838/index.m3u8
+#EXTINF:-1 ,1. COMEDY CENTRAL ARABIA
+https://vavoo.to/play/3953427166/index.m3u8
+#EXTINF:-1 ,2. TOONCAST
+http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
+#EXTINF:-1 ,3. SPACE
+http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
+#EXTINF:-1 ,4. PARAMOUNT NETWORK
+http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8
+#EXTINF:-1 ,4. PARAMOUNT NETWORK ESPAÑA
+https://vavoo.to/play/2712700079/index.m3u8
+#EXTINF:-1 ,4. PARAMOUNT NETWORK ALEMANIA
+https://vavoo.to/play/1139046525/index.m3u8
+#EXTINF:-1 ,5. TyC SPORTS
+http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
+#EXTINF:-1 ,6. DISCOVERY CHANNEL
+http://stream.flynetwifi.com:1935/live/mobile-006/playlist.m3u8
+#EXTINF:-1 ,6. DISCOVERY CHANNEL TURQUIA
+https://vavoo.to/play/883795423/index.m3u8
+#EXTINF:-1 ,6. DISCOVERY CHANNEL ALEMANIA
+https://vavoo.to/play/4172680295/index.m3u8
+#EXTINF:-1 ,6. DISCOVERY CHANNEL ITALIA
+https://vavoo.to/play/1391881073/index.m3u8
+#EXTINF:-1 ,6. DISCOVERY CHANNEL FRANCIA
+https://vavoo.to/play/1238733423/index.m3u8
+#EXTINF:-1 ,6. DISCOVERY CHANNEL ESPAÑA
+https://vavoo.to/play/1864712382/index.m3u8
+#EXTINF:-1 ,6. DISCOVERY CHANNEL PENINSULA BALCANICA
+https://vavoo.to/play/945172096/index.m3u8
+#EXTINF:-1 ,6. DISCOVERY CHANNEL POLONIA
+https://vavoo.to/play/1774945551/index.m3u8
+#EXTINF:-1 ,6. DISCOVERY CHANNEL REINO UNIDO
+https://vavoo.to/play/4150236335/index.m3u8
+#EXTINF:-1 ,6. DISCOVERY CHANNEL BULGARIA
+https://vavoo.to/play/968078831/index.m3u8
+#EXTINF:-1 ,6. DISCOVERY CHANNEL ALBANIA
+https://vavoo.to/play/705357795/index.m3u8
+#EXTINF:-1 ,6. DISCOVERY CHANNEL ITALIA
+https://vavoo.to/play/952332333/index.m3u8
+#EXTINF:-1 ,6. DISCOVERY CHANNEL RUSIA
+https://vavoo.to/play/416341588/index.m3u8
+#EXTINF:-1 ,6. DISCOVERY CHANNEL ROMANIA
+https://vavoo.to/play/2814719356/index.m3u8
+#EXTINF:-1 ,7. ---
+http://stream.flynetwifi.com:1935/live/mobile-007/playlist.m3u8
+#EXTINF:-1 ,8. ANTENA 3
+http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
+#EXTINF:-1 ,9. RT EN ESPAÑOL
+http://stream.flynetwifi.com:1935/live/mobile-009/playlist.m3u8
+#EXTINF:-1 ,10. FOX SPORTS
+http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1 ,11. NICK JR LA
+http://stream.flynetwifi.com:1935/live/mobile-011/playlist.m3u8
+#EXTINF:-1 ,11. NICK JR PENINSULA BALCANICA
+https://vavoo.to/play/1623527332/index.m3u8
+#EXTINF:-1 ,11. NICK JR ESPAÑA
+https://vavoo.to/play/2818740424/index.m3u8
+#EXTINF:-1 ,11. NICK JR RUSIA
+https://vavoo.to/play/4186889019/index.m3u8
+#EXTINF:-1 ,11. NICK JR BULGARIA
+https://vavoo.to/play/3876860218/index.m3u8
+#EXTINF:-1 ,11. NICK JR PAISES BAJOS
+https://vavoo.to/play/2315839040/index.m3u8
+#EXTINF:-1 ,11. NICK JR ALEMANIA
+https://vavoo.to/play/2309518350/index.m3u8
+#EXTINF:-1 ,11. NICK JR PORTUGAL
+https://vavoo.to/play/3980737081/index.m3u8
+#EXTINF:-1 ,11. NICK JR TURQUIA
+https://vavoo.to/play/1489207210/index.m3u8
+#EXTINF:-1 ,11. NICK JR REINO UNIDO
+https://vavoo.to/play/2535032843/index.m3u8
+#EXTINF:-1 ,11. NICK JR ROMANIA
+https://vavoo.to/play/2293712955/index.m3u8
+#EXTINF:-1 ,12. EWTN
+http://stream.flynetwifi.com:1935/live/mobile-012/playlist.m3u8
+#EXTINF:-1 ,12. EWTN REINO UNIDO
+https://vavoo.to/play/1453377500/index.m3u8
+#EXTINF:-1 ,13. ¡HOLA TV!
+http://stream.flynetwifi.com:1935/live/mobile-013/playlist.m3u8
+#EXTINF:-1 ,14. PASIONES
+http://stream.flynetwifi.com:1935/live/mobile-014/playlist.m3u8
+#EXTINF:-1 ,15. ---
+http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
+#EXTINF:-1 ,16. CANAL CHIC
+http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
+#EXTINF:-1 ,17. ---
+http://stream.flynetwifi.com:1935/live/mobile-017/playlist.m3u8
+#EXTINF:-1 ,18. ---
+http://stream.flynetwifi.com:1935/live/mobile-018/playlist.m3u8
+#EXTINF:-1 ,19. ---
+http://stream.flynetwifi.com:1935/live/mobile-019/playlist.m3u8
+#EXTINF:-1 ,20. ---
+http://stream.flynetwifi.com:1935/live/mobile-020/playlist.m3u8
+#EXTINF:-1 ,21. MULTIPREMIERER
+http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
+#EXTINF:-1 ,22. ---
+http://stream.flynetwifi.com:1935/live/mobile-022/playlist.m3u8
+#EXTINF:-1 ,23. ---
+http://stream.flynetwifi.com:1935/live/mobile-023/playlist.m3u8
+#EXTINF:-1 ,24. ---
+http://stream.flynetwifi.com:1935/live/mobile-024/playlist.m3u8
+#EXTINF:-1 ,25. ---
+http://stream.flynetwifi.com:1935/live/mobile-025/playlist.m3u8
+#EXTINF:-1 ,26. STUDIO UNIVERSAL
+http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8
+#EXTINF:-1 ,27. ---
+http://stream.flynetwifi.com:1935/live/mobile-027/playlist.m3u8
+#EXTINF:-1 ,28. A3 CINE
+http://stream.flynetwifi.com:1935/live/mobile-028/playlist.m3u8
+#EXTINF:-1 ,29. CARTOON NETWORK
+http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
+#EXTINF:-1 ,29. CARTOON NETWORK ITALIA
+https://vavoo.to/play/4038339909/index.m3u8
+#EXTINF:-1 ,29. CARTOON NETWORK ALEMANIA
+https://vavoo.to/play/821284911/index.m3u8
+#EXTINF:-1 ,29. CARTOON NETWORK PENINSULA BALCANICA
+https://vavoo.to/play/290697101/index.m3u8
+#EXTINF:-1 ,29. CARTOON NETWORK BULGARIA
+https://vavoo.to/play/2504865130/index.m3u8
+#EXTINF:-1 ,29. CARTOON NETWORK FRANCIA
+https://vavoo.to/play/461285223/index.m3u8
+#EXTINF:-1 ,29. CARTOON NETWORK ---
+https://vavoo.to/play/2246443410/index.m3u8
+#EXTINF:-1 ,29. CARTOON NETWORK PORTUGAL
+https://vavoo.to/play/2248448029/index.m3u8
+#EXTINF:-1 ,29. CARTOON NETWORK PAISES BAJOS
+https://vavoo.to/play/3541038309/index.m3u8
+#EXTINF:-1 ,29. CARTOON NETWORK ROMANIA
+https://vavoo.to/play/932471347/index.m3u8
+#EXTINF:-1 ,30. WARNER BROS TV
+http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
+#EXTINF:-1 ,31. FOX SPORTS 2
+http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
+#EXTINF:-1 ,31. FOX SPORTS 2 PENINSULA BALCANICA
+https://vavoo.to/play/475677041/index.m3u8
+#EXTINF:-1 ,32. ESPN
+http://stream.flynetwifi.com:1935/live/mobile-032/playlist.m3u8
+#EXTINF:-1 ,32. ESPN PENINSULA BALCANICA
+https://vavoo.to/play/3733471920/index.m3u8
+#EXTINF:-1 ,32. ESPN ARGENTINA
+https://vavoo.to/play/3221429437/index.m3u8
+#EXTINF:-1 ,33. ESPN 2
+http://stream.flynetwifi.com:1935/live/mobile-033/playlist.m3u8
+#EXTINF:-1 ,33. ESPN 2 PENINSULA BALCANICA
+https://vavoo.to/play/848647999/index.m3u8
+#EXTINF:-1 ,33. ESPN 2 ARGENTINA
+https://vavoo.to/play/1730534680/index.m3u8
+#EXTINF:-1 ,34. SONY MOVIES
+http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
+#EXTINF:-1 ,34. SONY MOVIES REINO UNIDO
+https://vavoo.to/play/1278718120/index.m3u8
+#EXTINF:-1 ,35. SONY CHANNEl
+http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
+#EXTINF:-1 ,35. SONY CAHNNEL REINO UNIDO
+https://vavoo.to/play/1843660869/index.m3u8
+#EXTINF:-1 ,36. CANAL 4 EL SALVADOR
+http://stream.flynetwifi.com:1935/live/mobile-036/playlist.m3u8
+#EXTINF:-1 ,37. CANAL 10 PERU
+http://stream.flynetwifi.com:1935/live/mobile-037/playlist.m3u8
+#EXTINF:-1 ,38. ---
+http://stream.flynetwifi.com:1935/live/mobile-038/playlist.m3u8
+#EXTINF:-1 ,39. NICK MUSIC
+http://stream.flynetwifi.com:1935/live/mobile-039/playlist.m3u8
+#EXTINF:-1 ,39. NICK MUSIC PAISES BAJOS
+https://vavoo.to/play/1813634076/index.m3u8
+#EXTINF:-1 ,40. TELEMUNDO
+http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8
+#EXTINF:-1 ,41. ---
+http://stream.flynetwifi.com:1935/live/mobile-041/playlist.m3u8
+#EXTINF:-1 ,42. ---
+http://stream.flynetwifi.com:1935/live/mobile-042/playlist.m3u8
+#EXTINF:-1 ,43. ---
+http://stream.flynetwifi.com:1935/live/mobile-043/playlist.m3u8
+#EXTINF:-1 ,44. MC
+http://stream.flynetwifi.com:1935/live/mobile-044/playlist.m3u8
+#EXTINF:-1 ,45. UNIVISION
+http://stream.flynetwifi.com:1935/live/mobile-045/playlist.m3u8
+#EXTINF:-1 ,46. TNT SERIES
+http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
+#EXTINF:-1 ,47. ATRESERIES
+http://stream.flynetwifi.com:1935/live/mobile-047/playlist.m3u8
+#EXTINF:-1 ,48. AXN
+http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
+#EXTINF:-1 ,48. AXN ESPAÑA
+https://vavoo.to/play/2697737242/index.m3u8
+#EXTINF:-1 ,48. AXN POLONIA
+https://vavoo.to/play/1289792804/index.m3u8
+#EXTINF:-1 ,48. AXN ROMANIA
+https://vavoo.to/play/1468999348/index.m3u8
+#EXTINF:-1 ,48. AXN PENINSULA BALCANICA
+https://vavoo.to/play/482695383/index.m3u8
+#EXTINF:-1 ,48. AXN ALEMANIA
+https://vavoo.to/play/35449939/index.m3u8
+#EXTINF:-1 ,48. AXN PORTUGAL
+https://vavoo.to/play/1407334609/index.m3u8
+#EXTINF:-1 ,48. AXN BULGARIA
+https://vavoo.to/play/4034508313/index.m3u8
+#EXTINF:-1 ,49. CANAL 21
+http://stream.flynetwifi.com:1935/live/mobile-049/playlist.m3u8
+#EXTINF:-1 ,50. ---
+http://stream.flynetwifi.com:1935/live/mobile-050/playlist.m3u8
+#EXTINF:-1 ,51. ---
+http://stream.flynetwifi.com:1935/live/mobile-051/playlist.m3u8
