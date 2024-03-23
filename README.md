@@ -10,9 +10,9 @@ Canales de Paises:
 
 España: Dial 1 al 186, 186 Canales
 
-Latinoamerica (Canales de Pago): 34 Canales
+Latinoamerica (Canales de Pago): Dial 187 al 140, 34 Canales
 
-Argentina: 64 Canales
+Argentina: Dial 141 al 203, 64 Canales
 
 Pronto mas Paises
 
