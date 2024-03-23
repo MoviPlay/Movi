@@ -6,6 +6,16 @@ Que disfruteis de los canales!
 
 Link del satelite para ver todos los canales: https://raw.githubusercontent.com/VavooSAT/VavooSAT/main/NicaSAT.m3u
 
+Canales de Paises:
+
+España: Dial 1 al 186, 186 Canales
+
+Latinoamerica (Canales de Pago): 34 Canales
+
+Argentina: 64 Canales
+
+Pronto mas Paises
+
 ⚠Señal real por cobertura
 
 Sinced From 2024.
