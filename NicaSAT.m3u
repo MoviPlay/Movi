@@ -4,9 +4,9 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="LA 2",2. La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="ANTENA 3",3. Antena 3
-https://oha.to/play/1723169343/index.m3u8
+https://vavoo.to/play/777383908/index.m3u8
 #EXTINF:-1 tvg-id="CUATRO",4. Cuatro
-https://oha.to/play/758558292/index.m3u8
+https://vavoo.to/play/758558292/index.m3u8
 #EXTINF:-1 tvg-id="TELECINCO",5. Telecinco
 https://oha.to/play/487257571/index.m3u8
 #EXTINF:-1 tvg-id="LA SEXTA",6. La Sexta
@@ -28,25 +28,25 @@ https://oha.to/play/2196141413/index.m3u8
 #EXTINF:-1 tvg-id="CMM",14. CMM
 https://oha.to/play/3457137060/index.m3u8
 #EXTINF:-1 tvg-id="24 HORAS",15. 24 Horas
-https://oha.to/play/547278105/index.m3u8
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="CANAL EXTREMADURA",16. Canal Extremadura
-https://oha.to/play/3978609834/index.m3u8
+https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/flavorIds/1_huc0mbcf,1_7ysvze4b/a.m3u8?uiConfId=53662072&playSessionId=8d82485a-6fc7-feaf-1005-4a2723b520f8:8bcfccfa-ef1d-844b-6a12-69308706bbc8&referrer=aHR0cHM6Ly93d3cuY2FuYWxleHRyZW1hZHVyYS5lcy8=&clientTag=html5:v7.108
 #EXTINF:-1 tvg-id="TVG",17. TVG
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-id="TVG 2",18. TVG 2
 https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-id="TELEMADRID",19. Telemadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
-#EXTINF:-1 tvg-id="SERIES POR M+",20. M+ Series
-https://oha.to/play/1815281334/index.m3u8
+#EXTINF:-1 tvg-id="DISTRITO TV",20. Distrito TV
+https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 #EXTINF:-1 tvg-id="LA OTRA",21. La Otra
 https://oha.to/play/1299409893/index.m3u8
 #EXTINF:-1 tvg-id="LA 7",22. La7
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="POPULAR TV MURCIA",23. Popular TV Murcia
 https://cloud.fastchannel.es/mic/manifiest/hls/populartvrm/populartvrm.m3u8
-#EXTINF:-1 tvg-id="NAVARRA TV",24. Navarra TV
-https://github.com/VavooSAT/VavooSATSettings/raw/main/navarra-tv-no-tiene-senal.m3u8
+#EXTINF:-1 tvg-id="CANAL 4 MADRID",24. Canal 4 Madrid
+https://limited35.todostreaming.es/live/mitjans-livestream2.m3u8
 #EXTINF:-1 tvg-id="LA 7 RIOJA",25. La 7 Rioja
 https://github.com/VavooSAT/VavooSATSettings/raw/main/la-7-rioja-no-tiene-senal.m3u8
 #EXTINF:-1 tvg-id="NEOX",26. Neox
