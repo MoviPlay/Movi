@@ -10,6 +10,8 @@ Sinced From 2024.
 
 ⚠ Plataforma Original y Legal
 
+⚠ Todos los canales son sacados de los puertos originales de todos los satelites
+
 -----------------------------------------------------------------------------
 
 # Diales
@@ -93,6 +95,11 @@ Sinced From 2024.
 | Cine Feel Good | 151 |
 | Cines Verdi TV | 152 |
 | Extreme | 153 |
+| National Geographic | 164 |
+| Dazn 1 | 166 |
+| Dazn 3 | 166 |
+| Dazn F1 | 167 |
+| Nickelodeon | 168 |
 | ETB 1 | 188 |
 | ETB 2 | 189 |
 | À Punt | 213 |
