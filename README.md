@@ -4,6 +4,8 @@ Que disfruteis de los canales!
 
 ⚠Señal real por cobertura
 
+Link: https://raw.githubusercontent.com/MoviPlay/Movi/main/MoviPlay.m3u
+
 Sinced From 2024.
 
 -----------------------------------------------------------------------------
