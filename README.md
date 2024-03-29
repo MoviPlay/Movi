@@ -215,3 +215,4 @@ Sinced From 2024.
 | Discovery Channel (Estados Unidos) | 769 |
 | M6 | 770 |
 | HBO | 773 |
+| Télé-Québec | 777 |
