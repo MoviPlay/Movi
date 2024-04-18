@@ -137,7 +137,7 @@ Sinced From 2024.
 | Nombre | Dial |
 | - | - |
 | A24 | 723 |
-| Telefe | 728 |
+| Telefe Rosario | 728 |
 | Nex TV | 730 |
 | Cronica | 735 |
 | TN | 736 |
