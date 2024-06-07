@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:1,tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/TVE.png" group-title="España/Spain/ /1/",1. LA 1
+#EXTINF:1,tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/TVE.png" group-title="España /Spain/ /1/",1. LA 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:1,tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/LA2.png" group-title="España /Spain/ /1/",2. LA 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
