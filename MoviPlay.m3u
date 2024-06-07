@@ -10,7 +10,7 @@ https://oha.to/play/4194733823/index.m3u8
 #EXTINF:1,tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/T5.png" group-title="España /Spain/ /1/",5. Telecinco
 https://oha.to/play/1024256819/index.m3u8
 #EXTINF:1,tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/SEXTA.png" group-title="España /Spain/ /1/",6. La Sexta
-https://oha.to/play/238901671/index.m3u8
+https://oha.to/play/2660027208/index.m3u8
 #EXTINF:1,tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MPLUS.png" group-title="España /Spain/ /1/",7. Movistar Plus+
 https://oha.to/play/2881668464/index.m3u8
 #EXTINF:1,vg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/VAMOSD.png" group-title="España /Spain/ /1/",8. M+ Vamos
@@ -30,7 +30,7 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTINF:1,tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/EXTRE.png" group-title="España /Spain/ /1/",15. Canal Extremadura
 https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/flavorIds/1_huc0mbcf,1_7ysvze4b/a.m3u8
 #EXTINF:1,tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/TELMAD.png" group-title="España /Spain/ /1/",16. Telemadrid
-https://telemadrid-23-secure2.akamaized.net/master.m3u8
+https://oha.to/play/2123930014/index.m3u8
 #EXTINF:1,tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/TPA.png" group-title="España /Spain/ /1/",17. TPA
 https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR
 #EXTINF:1,tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/TV3CAT.png" group-title="España /Spain/ /1/",18. TV3
