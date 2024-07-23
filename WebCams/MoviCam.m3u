@@ -1,13 +1,129 @@
 #EXTM3U
-#EXTINF:1. LM 1
+#EXTINF:1. RM_LM 1
 https://webcam.lamanga.travel/hls/test.m3u8
-#EXTINF:1. LM 2
+#EXTINF:1. RM_LM 2
 https://lon.rtsp.me/GyFPylS7DMDh7zX66lHEAA/1721694939/hls/dGysFeYh.m3u8
-#EXTINF:1. LM 3
+#EXTINF:1. RM_LM 3
 https://lon.rtsp.me/hJJquxc6aN7cqxYr-6PTIg/1721694969/hls/snAtt87T.m3u8
-#EXTINF:1. LM 4
+#EXTINF:1. RM_LM 4
 https://lon.rtsp.me/o_ohg5yIkGmJ5U2Vs0rUTQ/1721695030/hls/2b6Y6Rte.m3u8
-#EXTINF:1. LM 5
-https://hd-auth.skylinewebcams.com/live.m3u8?a=60rdall3fas50cqog5qb0sqn07
-#EXTINF:1. LM 6
-https://hd-auth.skylinewebcams.com/live.m3u8?a=v249j29s7ku3gmpjd6b99gldm1
+#EXTINF:1. RM_LM 5
+https://lon.rtsp.me/pNaxY9Nt-NSJfYla6Y8ujw/1721735613/hls/46nTHn4k.m3u8
+#EXTINF:1. RM_LM 6
+https://lon.rtsp.me/i2usuCs0CzctqnXymHTMkw/1721735643/hls/HtQbZ5Zs.m3u8
+#EXTINF:1. GAL_ACO 1
+https://www.crtvg.es:1554/hls/coruna/index.m3u8
+#EXTINF:1. GAL_ACO 2
+https://www.crtvg.es:1554/hls/mcoruna/index.m3u8
+#EXTINF:1. GAL_ACO 3
+https://wow.camaramar.com/camaramar/62_matadero.stream/playlist.m3u8
+#EXTINF:1. ARGMDZ 1
+https://tv.streamcasthd.com:3895/live/laslenaslive.m3u8
+#EXTINF:1. ARGMDZ_LH 1
+https://s113.ipcamlive.com/streams/71ljofknp1r0xmvra/stream.m3u8
+#EXTINF:1. ARGMDZ_LH 2
+https://s113.ipcamlive.com/streams/71orjmgovhkezxdyv/stream.m3u8
+#EXTINF:1. ARGMDZ_LH 3
+https://s113.ipcamlive.com/streams/71yquasrz6ifvxkp1/stream.m3u8
+#EXTINF:1. ARGMDZ_LH 4
+https://s118.ipcamlive.com/streams/76zylr8oxta7megkd/stream.m3u8
+#EXTINF:1. ARGMDZ_SM 1
+https://ythls-v3.onrender.com/channel/UCl5P2zJoH1gBdf38AiYALKA.m3u8
+#EXTINF:1. ARGMDZ_MLRG 1
+https://tv.streamcasthd.com:3895/live/laslenaslive.m3u8
+#EXTINF:1. USANY 1
+https://ythls-v3.onrender.com/channel/UC6qrG3W8SMK0jior2olka3g.m3u8
+#EXTINF:1. USANY 2
+https://ythls-v3.onrender.com/channel/UC6AlfoRUeH4B1an_R5YSSTw.m3u8
+#EXTINF:1. USANY 3
+https://ythls-v3.onrender.com/channel/UCEJ3VXhzw2ykC34059F_-cw.m3u8
+#EXTINF:1. USANY 4
+https://edge01.balticlivecam.com/blc/NewYork2/index.m3u8?token=6de7664b41b38171d619d773d20beefa:1721740541502
+#EXTINF:1. USANY 5
+https://wms-prod-3.wetmet.net/live/267-01-01/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDI0IDE6MTc6NDIgUE0maGFzaF92YWx1ZT16aGZFcnhJODFoczZ6aldibUVtWTJnPT0mdmFsaWRtaW51dGVzPTMw
+#EXTINF:1. USANY 6
+https://ythls-v3.onrender.com/channel/UCp1ojgNJ8mNWdMDsdcMRA2Q.m3u8
+#EXTINF:1. USANY 7
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/gzhd/2019/10/15/1300.mp4/chunklist_w41200305.m3u8
+#EXTINF:1. USANY 8
+https://ythls-v3.onrender.com/video/y1b1yrCSjFE.m3u8
+#EXTINF:1. USANY 9
+https://ythls-v3.onrender.com/video/mOuVHSuvAbg.m3u8
+#EXTINF:1. USANY 10
+https://5ba429de5aba9.streamlock.net/liveedge/pnywmux.stream/chunklist_w541464012_tkUFRadGtlbmR0aW1lPTE3MjE3NjMwMTQmUFRadGtoYXNoPWNJRGt5U3dKX1l5UzF2YUNtenp6S1hBV2NZeEFSd05BVEI2OVdyQnBwZms9.m3u8
+#EXTINF:1. USANY 11
+https://5ba429de5aba9.streamlock.net/liveedge/nyhwmux.stream/chunklist_w2006902032_tkUFRadGtlbmR0aW1lPTE3MjE3NjMxNjImUFRadGtoYXNoPUdfUi1SWTctaWhTQm91UDhlRFlnS1h2Rk5kdnJsNjJidlR0WXdFMG5XQjA9.m3u8
+#EXTINF:1. USANY 30
+https://ythls-v3.onrender.com/video/MQkWaofZsa8.m3u8
+#EXTINF:1. USALA 1
+https://ythls-v3.onrender.com/video/0MsrzFR3PD4.m3u8
+#EXTINF:1. USALA 2
+https://wms-prod-3.wetmet.net/live/281-03-01/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDI0IDQ6MzY6MDIgUE0maGFzaF92YWx1ZT0vMHYxZjlGN3BOTE4xWEdmSlkzQUlBPT0mdmFsaWRtaW51dGVzPTMw
+#EXTINF:1. USALA 3
+https://ythls-v3.onrender.com/video/pXe8MpU7uzk.m3u8
+#EXTINF:1. USALA 4
+https://s60.ipcamlive.com/streams/3c8twfuqwr6b4fo7m/stream.m3u8
+#EXTINF:1. USALA 5
+https://ythls-v3.onrender.com/video/3LXQWU67Ufk.m3u8
+#EXTINF:1. USACA 1
+https://ythls-v3.onrender.com/video/mhQjsLBfOoY.m3u8
+#EXTINF:1. USACA 2
+https://ythls-v3.onrender.com/video/ObYVIx-WOWc.m3u8
+#EXTINF:1. USACA 3
+https://ythls-v3.onrender.com/video/2c7NV66YzKA.m3u8
+#EXTINF:1. USACA 4
+https://stream-ue1-delta.dropcam.com/nexus_aac/6d56391426a04eb287398407a04d404f/playlist.m3u8?public=7W11O1wCks
+#EXTINF:1. USACA 5
+https://5ddd47d64e730.streamlock.net:444/westland/westland.stream/playlist.m3u8
+#EXTINF:1. USACA 6
+https://ythls-v3.onrender.com/video/q0b42Ks8nfI.m3u8
+#EXTINF:1. USACA 7
+https://ythls-v3.onrender.com/video/GOUJmvnFnZ8.m3u8
+#EXTINF:1. USACA 8
+https://ythls-v3.onrender.com/video/GOUJmvnFnZ8.m3u8
+#EXTINF:1. USAFL 1
+https://ythls-v3.onrender.com/video/cmkAbDUEoyA.m3u8
+#EXTINF:1. USAFL 2
+https://s115.ipcamlive.com/streams/73ql5nijp8lgdpvuy/stream.m3u8
+#EXTINF:1. USAFL 3
+https://ythls-v3.onrender.com/video/-HAi_5IIAYg.m3u8
+#EXTINF:1. USAFL 4
+https://5ed7b8fd7bf40.streamlock.net:444/pwillys/pwillysbeachcam062923/playlist.m3u8
+#EXTINF:1. USAFL 5
+https://s70.ipcamlive.com/streams/468qkchyogfnrlgmh/stream.m3u8
+#EXTINF:1. USAFL 6
+https://ythls-v3.onrender.com/video/rxBBRLWF0mM.m3u8
+#EXTINF:1. USAFL 7
+https://stream.evshd.com:9443/pbmarriott/ngrp:pbmarriott.stream_all/playlist.m3u8
+#EXTINF:1. USAFL 8
+https://streamer2.brownrice.com/coralsands1/coralsands1.stream/playlist.m3u8
+#EXTINF:1. USAFL 9
+https://ythls-v3.onrender.com/video/o1eTLR7Degs.m3u8
+#EXTINF:1. USAMI 1
+https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.ymswdhc.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt10637.rc0.edge.basic.stream/playlist.m3u8
+#EXTINF:1. USAMI 2
+https://5b9eaf88d7205.streamlock.net/liveedge/pmw1mux.stream/chunklist_w497685826_tkUFRadGtlbmR0aW1lPTE3MjE3NzYxMzAmUFRadGtoYXNoPWxtcFVjMlZOV0hFdkh2cWlQZVM3SjAxWEpRZGxhckVYYUNiZlY3Wm9VSnc9.m3u8
+#EXTINF:1. USAMI 3
+https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.wyscerq.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt10637.rc0.edge.basic.stream/playlist.m3u8
+#EXTINF:1. USAMI 4
+https://use01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.drwger6.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt10637.rc0.edge.basic.stream/playlist.m3u8
+#EXTINF:1. MEXCA 1
+https://ythls-v3.onrender.com/video/7Wq2uWmNdZ4.m3u8
+#EXTINF:1. MEXCA 2
+https://ythls-v3.onrender.com/video/5cjaRvYbRTM.m3u8
+#EXTINF:1. MEXCA 3
+https://ythls-v3.onrender.com/video/jYRFxBRprw8.m3u8
+#EXTINF:1. MEXCA 4
+https://ythls-v3.onrender.com/video/Cq4sFf3xtL0.m3u8
+#EXTINF:1. MEXCA 5
+https://ythls-v3.onrender.com/video/Qzd5Wcc1ixg.m3u8
+#EXTINF:1. MEXCA 6
+https://ythls-v3.onrender.com/video/AIczEWAm8_U.m3u8
+#EXTINF:1. MEXCA 7
+https://ythls-v3.onrender.com/video/aGXRGtsSsC0.m3u8
+#EXTINF:1. USAHO 1
+https://wms-prod-3.wetmet.net/live/306-05-01/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDI0IDU6MjM6MzQgUE0maGFzaF92YWx1ZT0rTVRHbWthWTBqdU9HTUNTNGI3aCt3PT0mdmFsaWRtaW51dGVzPTMw
+#EXTINF:1. MAD 1
+https://ythls-v3.onrender.com/video/Fe6xNc6wqjo.m3u8
+#EXTINF:1. MAD 1
+https://ythls-v3.onrender.com/video/Fe6xNc6wqjo.m3u8
